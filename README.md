@@ -1,6 +1,6 @@
 # Master in Cloud Development and Architecture
 
-Inspired in the [Personal MBA Program]
+Inspired in the [Personal MBA Program](https://personalmba.com/)
 
 
 ## Syllabus
